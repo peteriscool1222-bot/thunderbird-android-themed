@@ -1,3 +1,15 @@
+# Thunderbird for Android (Custom Theme Fork)
+
+> This is a community fork of [Thunderbird for Android](https://github.com/thunderbird/thunderbird-android) with a Gmail-style light theme applied.
+
+## Changes from upstream
+
+- **Theme**: the light color scheme has been recolored to Gmail's palette (white surfaces, Google-blue accents, clean greys). Dark theme is unchanged.
+
+To install a custom build, check out the [Releases](../../releases) section.
+
+---
+
 # Thunderbird for Android
 
 <a href="https://play.google.com/store/apps/details?id=net.thunderbird.android&referrer=utm_campaign%3Dandroid_metadata%26utm_medium%3Dweb%26utm_source%3Dgithub.com%26utm_content%3Dbadge" target="_blank"><img src="./docs/assets/get-it-on-play.png" alt="Get it on Google Play" height="28"></a>
